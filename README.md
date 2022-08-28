@@ -1,4 +1,4 @@
 # aos
-aos plugin
+AOS Jquery plugin
 
 https://minhazfaisal.github.io/aos/
